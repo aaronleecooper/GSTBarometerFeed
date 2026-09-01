@@ -1,0 +1,9 @@
+GST Barometer Feed Update
+Completed: 2026-09-01 09:23:05
+Computer: TOB-SLS-LAP1325
+
+Files:
+BoerneGST.txt
+GSTModels.txt
+District11.txt
+GSTOverall.txt
