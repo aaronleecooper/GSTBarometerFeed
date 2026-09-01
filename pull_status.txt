@@ -1,9 +1,8 @@
 GST Barometer Feed Update
-Completed: 2026-09-01 09:23:05
-Computer: TOB-SLS-LAP1325
+Completed: 2026-09-01 09:33:20
 
-Files:
-BoerneGST.txt
-GSTModels.txt
-District11.txt
-GSTOverall.txt
+Results:
+Boerne | BoerneGST.txt | SUCCESS | 87002 bytes
+GST Models | GSTModels.txt | SUCCESS | 83349 bytes
+District 11 | District11.txt | SUCCESS | 22904 bytes
+GST Overall | GSTOverall.txt | SUCCESS | 221585 bytes
